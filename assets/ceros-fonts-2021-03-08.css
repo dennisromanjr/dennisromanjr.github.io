@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CerosIcons-Regular';
+    /** Font files are dated to prevent browser caching old versions when they are updated */
+    src:url('CerosIcons-Regular-2021-03-08.woff') format('woff'),
+    url('CerosIcons-Regular-2021-03-08.ttf') format('truetype'),
+    url('CerosIcons-Regular-2021-03-08.svg#CerosIcons-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
